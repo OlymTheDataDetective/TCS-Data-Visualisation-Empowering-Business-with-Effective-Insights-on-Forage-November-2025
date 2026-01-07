@@ -1,4 +1,4 @@
-# Retail Store Products and Customer Behaviour Analysis - TCS Forage - November-2025
+# TATA Retail Analytics – Store Performance & Sales Analysis - TCS Forage - November-2025
 
  `Data Analytics` `Power BI` `SQL` `Business Intelligence` `Customer Behaviour` `Dashboard` `Excel` `Data Cleaning` 
  `Data Visualization` `Retail Analytics`
